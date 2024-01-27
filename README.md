@@ -20,6 +20,8 @@ In this branch code, you can see all the code which I wrote and depict while mak
 
 ## 2nd Episode ( Part -2 | Connect Your First Springboot REST API with Database ( MySQL )  )
 
+https://youtu.be/tBwm_znzWAU
+
 In this video, I described very basic of Rest APis, and how to connect a simple Spring boot application with Mysql database. You can see all the code which I wrote and depict while making tutotrial.
 
 - GET ALL CAR API
