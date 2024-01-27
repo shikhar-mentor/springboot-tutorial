@@ -1,7 +1,14 @@
 package com.uncomplexit.car.beans;
 
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+
+@Entity
 public class Car {
+
+    @Id
     private Integer id;
+
     private String name;
 
     public Integer getId() {
